@@ -1,0 +1,306 @@
+.product-page{
+    margin-bottom: 60px;
+}
+.product-page .bg-bulid img,.product-page .qy-bulid img{
+    width: 100%;
+}
+.product-page .bg-bulid h3{
+    font-weight: bold;
+    font-size: 36px;
+    color: #fff;
+    position: relative;
+    top: -100px;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.product-page .qy-bulid h3{
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+    position: relative;
+    top: -80px;
+    text-align: center;
+}
+.product-page .lettet-title{
+    margin-top: 30px;
+}
+.product-page .lettet-title img{
+    margin-left: -100px;
+    transition: all .5s linear;
+}
+.product-page .lettet-title h3{
+    color: #555;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: rgba(255, 255, 255, 0.9) 0 3px 20px;
+}
+.product-page .lettet-title p{
+    font-size: 17px;
+    color: #a0a0a0;
+    font-weight: bold;
+    text-shadow: rgba(0, 0, 0, 0.2) 0 3px 15px;
+}
+.product-page .lettet-title p span{
+    color: #333;
+}
+.product-page .lettet-title .lettet-title-text{
+    position: relative;
+    top: -90px;
+    left: 150px;
+    opacity: 0;
+    transition: all .5s linear;
+}
+
+.product-page .title-us{
+    /*margin-left: 60px;*/
+    margin-top: 40px;
+    display: inline-block;
+    height: 50px;
+    border-left: 3px solid #868686;
+    padding-left: 10px;
+    padding-top: 7px;
+}
+.product-page .title-us h3{
+    font-size: 23px;
+    color: #555;
+    font-weight: bold;
+    font-family: "HanHei-SC-thin";
+}
+.product-page .title-us span{
+    font-size: 14px;
+    color: #aaa;
+}
+.product-page .product-page-content{
+    padding-right: 100px;
+}
+.product-page .product-page-content .line-x{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.product-page .product-page-content p{
+    text-align: justify;
+    color: #999;
+    font-size: 14px;
+
+}
+.product-page .product-page-content .mode-table{
+    width: 130px;
+    height: 60px;
+    background: #eaeaea;
+    margin-left: -2px;
+    margin-bottom: 3px;
+    display: inline-block;
+    padding-top: 15px;
+}
+.product-page .product-page-content .mode-table-2{
+    width: 263px;
+    height: 40px;
+    background: #eaeaea;
+    margin-left: -2px;
+    margin-bottom: 3px;
+    display: inline-block;
+    padding-top: 5px;
+}
+.product-page .product-page-content .mode-table-3{
+    width: 100px;
+    height: 100px;
+    background: #eaeaea;
+    margin-left: 0;
+    margin-bottom: 4px;
+    display: inline-table;
+    padding:25px 3px 0 3px;
+}
+.product-page .product-page-content .mode-big-table{
+    text-align: center;
+    line-height: 14px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.product-page .product-page-content .mode-big-table p{
+    text-align: center;
+    color: #555;
+    font-size: 13px;
+
+}
+.product-page .product-page-content .mode-big-table span{
+    font-size: 10px;
+    color: #999;
+}
+
+/*luzhou*/
+.product-page .brand-logo{
+    width: 200px;
+    margin-bottom: 20px;
+    display: block;
+}
+.product-page .product-page-content h5{
+    color: #555;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: "HanHei-SC-thin";
+}
+.product-page .product-page-content h6{
+    color: #555;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-family: "HanHei-SC-thin";
+}
+.product-page .product-page-content .text-icon{
+    padding-top: 20px;
+}
+.product-page .product-page-content .text-icon span{
+    font-size: 13px;
+    color: #777;
+    font-weight: bold;
+    border: 1px solid #777;
+    border-radius: 2px;
+    padding: 5px 8px;
+}
+
+.product-page .product-page-content .e-text p{
+    margin: 8px 0;
+}
+.product-page .product-page-content .e-text p b{
+    color: #666;
+    font-family: "HanHei-SC-thin";
+    font-size: 16px;
+}
+.succeed{
+    margin-top: -80px;
+    margin-bottom: 25px;
+}
+/*case*/
+.case-title{
+    margin-top: -60px;
+}
+.case-title .title-us{
+    /*margin-left: 60px;*/
+    display: inline-block;
+    height: 50px;
+    border-left: 3px solid #868686;
+    padding-left: 10px;
+    padding-top: 7px;
+}
+.case-title .title-us h3{
+    font-size: 23px;
+    color: #555;
+    font-weight: bold;
+    font-family: "HanHei-SC-thin";
+}
+.case-title .title-us span{
+    font-size: 14px;
+    color: #aaa;
+}
+.case-title >.line-x{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.case .case-icon{
+    margin-left: -10px;
+    margin-bottom: 40px;
+}
+.case .case-icon li:first-child{
+    border-right: 3px solid #999;
+    padding-right: 30px;
+}
+.case .case-icon li:nth-child(2){
+    padding-left: 30px;
+}
+.case .case-icon li img{
+    width: 80px;
+}
+.case .case-content{
+    margin:0 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 3px 20px;
+    overflow: hidden;
+    height: 460px;
+}
+.case .case-content .bg-img{
+    width: 100%;
+}
+.case .case-content .case-text{
+    margin-top: 20px;
+    padding:0 10px 20px 10px;
+}
+.case .case-content .case-text h3{
+    font-size: 26px;
+    color: #333;
+    font-weight: bold;
+    font-family: "HanHei-SC-thin";
+    margin-bottom: 10px;
+}
+.case .case-content .case-text p{
+    text-align: justify;
+    color: #777;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+.case .case-content .case-text p b{
+    font-family: "HanHei-SC-thin";
+    color: #555;
+    font-size: 16px;
+}
+.case .case-content .case-top{
+    background: rgba(255, 255, 255,1);
+    -webkit-clip-path: polygon(0px 189px,72px 189px,189px 0px,0px 0px);
+    -moz-clip-path: polygon(0px 189px,72px 189px,189px 0px,0px 0px);
+    clip-path: polygon(0px 189px,72px 189px,189px 0px,0px 0px);
+    width: 300px;
+    height: 189px;
+    position: absolute;
+    transition: all .3s linear;
+}
+.case .case-content .case-sm{
+    position: absolute;
+    z-index: 999;
+    transition: all .3s linear;
+    left: 60px;
+    top: 0;
+}
+.case .case-content:hover .case-top{
+    clip-path: polygon(0px 188px,301px 188px,301px 0px,0px 0px);
+    -moz-clip-path: polygon(0px 188px,301px 188px,301px 0px,0px 0px);
+    -webkit-clip-path: polygon(0px 188px,301px 188px,301px 0px,0px 0px);
+    width: 300px;
+    background: rgba(255, 255, 255,.9);
+}
+.case .case-content:hover .case-sm{
+    left: 50%;
+    top: 40px;
+    margin-left: -65px;
+}
+.product-page .product-page-content .mode-big-table .table-center p{
+    font-weight: bold;
+}
+.product-page .product-page-content .mode-big-table .table-center span{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
