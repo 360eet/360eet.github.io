@@ -226,10 +226,10 @@
     padding:0 10px 20px 10px;
 }
 .case .case-content .case-text h3{
-    font-size: 26px;
+    font-size: 23px;
+    line-height: 1.2em;
     color: #333;
-    font-weight: bold;
-    font-family: "HanHei-SC-thin";
+    font-family: "Microsoft YaHei","Segoe UI", "Lucida Grande", Helvetica, Arial,sans-serif;
     margin-bottom: 10px;
 }
 .case .case-content .case-text p{
